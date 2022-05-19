@@ -1,6 +1,4 @@
-# Assignment  JavaScript
-
-Foobar is a Python library for dealing with word pluralization.
+# Random Quote Generator
 
 ## How to use
 
